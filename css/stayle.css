@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    background-color: #FFC021;
+
+}
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+.main{
+    padding: 10px;
+    margin-top: 100px;
+}
+.main h2{
+    margin-top: 50px;
+    margin-left: 550px;
+    font-size: 25px;
+}
+.text {
+    margin-top: 10px;
+    margin-left: 500px;
+
+}
+.animal{
+    display: flex;
+    margin-left: 80px;
+    margin-top: 30px;
+}
+.child{
+    margin-left: 50px;
+    background-color: #fff;
+    width: 300px;
+    height: 340px;
+}
+.card img {
+    height: 200px;
+    width: 200px;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.five{
+    margin-left: 25px;
+}
+.two{
+    margin-left: 25px;
+}
+.icon{
+    margin-left: 25px;
+}
+.one{
+    margin-left: 25px;
+}
